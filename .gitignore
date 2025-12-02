@@ -1,4 +1,2 @@
 node_modules/
-.env0
-
-.gitignore.save
+.env
